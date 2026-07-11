@@ -11,7 +11,8 @@ O objetivo é fornecer uma visão clara do custo do financiamento, incluindo a p
 ## Pré-visualização do Dashboard
 
 
-(images/dashboard.png<img width="1920" height="1080" alt="Credito Habitacao" src="https://github.com/user-attachments/assets/6c20325b-1ff6-47a3-b79a-0624e9dcfd37" />
+<img width="1416" height="787" alt="Home" src="https://github.com/user-attachments/assets/82fb4173-cca8-4af4-98ba-675e27295235" />
+
 
 ```
 
