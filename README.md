@@ -1,4 +1,4 @@
-# 🏠 Simulador de Crédito Habitação
+# Simulador de Crédito Habitação
 
 ## Visão Geral
 
